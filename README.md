@@ -1,1 +1,2 @@
-# equiz
+# eTest
+Online Test Platform
